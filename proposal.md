@@ -2,7 +2,7 @@
 
 ## Team Members
 
-[Fill this in]
+Drew Zhong, Saw Lin, Han Li
 
 ## Project proposal
 
